@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/github banner.jpg" width="100%" alt="Anthony Emmanuel - Software Developer">
+</div>
+
 # Anthony Emmanuel Rondón Rodríguez
 
 ### Software Developer | AI Integration | Systems Engineering
